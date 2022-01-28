@@ -453,7 +453,7 @@ header .search-bar-container label:hover {
 
 .gallery .box-container .box .content{
   position: absolute;
-  top:-100%; left:0;
+  top: -100%; left:0;
   height: 100%;
   width:100%;
   text-align: center;
